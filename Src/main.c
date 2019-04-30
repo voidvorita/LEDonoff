@@ -142,7 +142,7 @@ int main(void)
 	  if(way)index =(index+1)%8;
 	  else index =(index-1)%8;
 	  ByteDataWrite(pattetn);
-	  HAL_Delay(300);
+	  HAL_Delay(400);
   /* USER CODE END WHILE */
 
   /* USER CODE BEGIN 3 */
